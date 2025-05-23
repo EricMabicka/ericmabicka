@@ -1,3 +1,4 @@
+![Eric Mabicka](profile.jpg){: style="width:150px; border-radius:50%;" }
 ---
 layout: default
 title: Eric Mabicka
