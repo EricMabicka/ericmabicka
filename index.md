@@ -1,19 +1,47 @@
 ---
 layout: default
-title: Hi, I'm Eric Mabicka
+title: Eric Mabicka
 ---
 
-👋 **Welcome!**
+# Hi, I'm Eric Mabicka
 
-I'm a **Data Analyst** based in **Zurich, Switzerland**, with a Master’s Degree in **Applied Economics**.
+🎓 **Master’s in Applied Economics**  
+🔍 **Aspiring Data Analyst** — Focused on **Economics**, **Macroeconomics**, **Business**, and **Social Science**  
+📈 **Former Economic & Social Analyst** | Urban Agency & Consulting
 
-I’m passionate about using data to uncover insights, tell compelling stories, and support better decision-making. My goal is to help public and private organizations make informed, data-driven choices that drive meaningful results.
+---
 
-### What I Do
-- Analyze and interpret complex data to generate actionable insights
-- Translate analytics into clear recommendations for strategic decisions
-- Build dashboards and visualizations that tell powerful stories
-- Continuously seek ways to improve processes through data
+## 🛠️ Core Skills
 
-📬 [LinkedIn](https://linkedin.com/in/ericmabicka) | [GitHub](https://github.com/ericmabicka)  
-📄 [Download My Resume](EricMabicka_Resume.pdf)
+- **Languages & Tools**: SQL | Excel | Python | R | Power BI  
+- **Analytics**: Econometrics, Forecasting, Panel Data, Descriptive & Inferential Statistics  
+- **Data Storytelling**: Turning numbers into actionable insights for real-world impact  
+
+---
+
+## 💡 My Journey
+
+With a Master’s degree in *Applied Economics*, I’ve worked in **urban policy and consulting** to help public organizations understand complex **economic, demographic, and social trends**.
+
+My experience includes:  
+- Conducting research  
+- Delivering policy recommendations  
+- Executing hands-on data analytics and visualization
+
+---
+
+## 🌱 Lifelong Learner & Knowledge Sharer
+
+I’m passionate about teaching, mentoring, and continuous learning.  
+Whether it's mastering a new tool, diving into data science trends, or helping others grow, I believe **curiosity and collaboration fuel progress**.
+
+---
+
+## 📫 Let’s Connect
+
+- [LinkedIn](https://www.linkedin.com/in/ericmabicka/)  
+- [Portfolio Website](https://ericmabicka.github.io)
+
+---
+
+> “**Data is not just numbers — it's stories waiting to be told. And I'm here to help tell them.**”
