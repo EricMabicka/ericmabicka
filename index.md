@@ -4,7 +4,6 @@ title: Hi, I'm Eric Mabicka
 
 👋 **Welcome!**
 
-👋 **Welcome!**
 
 I'm a **Data Analyst** based in **Zurich, Switzerland**, with a Master’s Degree in **Applied Economics**.
 
