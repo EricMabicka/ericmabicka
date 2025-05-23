@@ -16,7 +16,7 @@
 
 ## 💡 My Journey
 
-With a Master’s degree in Applied Economics, I’ve worked as an economic and social analyst in urban policy and consulting—helping organizations understand demographic and social trends. My experience spans data-driven research, policy recommendations, and hands-on analytics.
+With a Master’s degree in Applied Economics, I’ve worked as an economic and social analyst in urban policy and consulting—helping public organizations understand economic, demographic and social trends. My experience spans data-driven research, policy recommendations, and hands-on analytics.
 
 ---
 
