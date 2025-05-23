@@ -1,3 +1,4 @@
+---
 layout: default
 title: Hi, I'm Eric Mabicka
 ---
