@@ -5,7 +5,7 @@
 <h1 align="center"> Hi, I'm Eric Mabicka</h1>
 
 <p align="center">
-  <b>Data Analyst | Applied Economics | Business & Social Insights</b><br/>
+  <b>Data Analyst | Applied Economics | Economics & Business Insights</b><br/>
   📍 Zurich, Switzerland
 </p>
 
