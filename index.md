@@ -4,12 +4,12 @@ title: Eric Mabicka
 ---
 
 <p align="center">
-  <img src="profile.jpg" alt="Eric Mabicka" style="width:150px; border-radius:50%;" />
+  <img src="Profile.jpg" alt="Eric Mabicka" style="width:150px; border-radius:50%;" />
 </p>
 
-# Hi, I'm Eric Mabicka
+# 👋 Hi, I'm Eric Mabicka
 
-[Home](https://ericmabicka.github.io) | [Projects](#projects) | [Resume](resume.pdf)
+[Home](https://ericmabicka.github.io) | [Projects](#projects) | [Resume](EricMabicka_Resume.pdf)
 
 ---
 
@@ -48,7 +48,8 @@ Whether it's mastering a new tool, diving into data science trends, or helping o
 ## 📫 Let’s Connect
 
 - [LinkedIn](https://www.linkedin.com/in/ericmabicka/)  
-- [Portfolio Website](https://ericmabicka.github.io)
+- [Portfolio Website](https://ericmabicka.github.io)  
+- <a href="EricMabicka_Resume.pdf" target="_blank" style="background:#007acc;color:white;padding:8px 15px;border-radius:5px;text-decoration:none;">📄 Download My Resume</a>
 
 ---
 
