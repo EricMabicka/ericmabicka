@@ -1,10 +1,17 @@
-![Eric Mabicka](profile.jpg){: style="width:150px; border-radius:50%;" }
 ---
 layout: default
 title: Eric Mabicka
 ---
 
+<p align="center">
+  <img src="profile.jpg" alt="Eric Mabicka" style="width:150px; border-radius:50%;" />
+</p>
+
 # Hi, I'm Eric Mabicka
+
+[Home](https://ericmabicka.github.io) | [Projects](#projects) | [Resume](resume.pdf)
+
+---
 
 🎓 **Master’s in Applied Economics**  
 🔍 **Aspiring Data Analyst** — Focused on **Economics**, **Macroeconomics**, **Business**, and **Social Science**  
@@ -45,4 +52,11 @@ Whether it's mastering a new tool, diving into data science trends, or helping o
 
 ---
 
+## 🗂️ Selected Projects
+
+<!-- Add your projects here -->
+
+---
+
 > “**Data is not just numbers — it's stories waiting to be told. And I'm here to help tell them.**”
+
