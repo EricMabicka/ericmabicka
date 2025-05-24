@@ -1,50 +1,57 @@
-
 ---
 layout: default
 title: Eric Mabicka
 ---
 
-# Eric Mabicka
+<p align="center">
+  <img src="Profile.jpg" alt="Eric Mabicka" style="width:120px; border-radius:50%;" />
+</p>
 
-**Data Analyst** based in **Zurich, Switzerland**  
-Master’s Degree in Applied Economics  
+<h1 align="center">Eric Mabicka</h1>
 
-I help public and private organizations make better decisions through data-driven insights, clear visualizations, and actionable recommendations.
+<p align="center">
+  Data Analyst based in Zurich, Switzerland  
+  <br/>
+  Master’s in Applied Economics
+</p>
 
-[View Resume](EricMabicka_Resume.pdf) • [LinkedIn](https://www.linkedin.com/in/ericmabicka/) • [GitHub](https://github.com/EricMabicka)
+<p align="center">
+  <a href="EricMabicka_Resume.pdf">View Resume</a> • 
+  <a href="https://www.linkedin.com/in/ericmabicka/">LinkedIn</a> • 
+  <a href="https://github.com/EricMabicka">GitHub</a>
+</p>
 
 ---
 
 ## About Me
 
-I’m an applied economics graduate with experience in economic and social policy analysis. My background combines quantitative research, data analytics, and visualization.
+I help public and private organizations make better decisions through data-driven insights, clear visualizations, and actionable recommendations.
 
-I believe in the power of data to guide meaningful change in both the public and private sectors.
+My background blends economic research, social data analysis, and applied analytics.
 
 ---
 
 ## Projects
 
-Here are a few selected projects I've worked on:
+**[Project Title 1](#)**  
+Brief description — what the project solved or uncovered.
 
-- **[Project Title 1](#)**  
-  Short description of the problem, method, and insight.
+**[Project Title 2](#)**  
+Brief description — your role, method, and key insights.
 
-- **[Project Title 2](#)**  
-  Short description of the project and your contribution.
+**[Project Title 3](#)**  
+Brief description — any forecasting, dashboarding, or policy analysis.
 
-- **[Project Title 3](#)**  
-  Something related to macroeconomics, forecasting, or social data.
-
-> Want to see more? Visit my [GitHub](https://github.com/EricMabicka).
+> Visit my [GitHub](https://github.com/EricMabicka) for full project list.
 
 ---
 
 ## Contact
 
-Available for analytics roles, collaborations, or mentoring.
+I’m open to data analyst roles, consulting, and collaborations.
 
 - [LinkedIn](https://www.linkedin.com/in/ericmabicka/)
 - [GitHub](https://github.com/EricMabicka)
 - [Download Resume](EricMabicka_Resume.pdf)
+
 
