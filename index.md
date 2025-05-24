@@ -1,63 +1,50 @@
+
 ---
 layout: default
 title: Eric Mabicka
 ---
 
-<p align="center">
-  <img src="Profile.jpg" alt="Eric Mabicka" style="width:150px; border-radius:50%;" />
-</p>
+# Eric Mabicka
 
-# 👋 Hi, I'm Eric Mabicka
+**Data Analyst** based in **Zurich, Switzerland**  
+Master’s Degree in Applied Economics  
 
-[Home](https://ericmabicka.github.io) | [Projects](#projects) | [Resume](EricMabicka_Resume.pdf)
+I help public and private organizations make better decisions through data-driven insights, clear visualizations, and actionable recommendations.
 
----
-
-🎓 **Master’s in Applied Economics**  
-🔍 **Aspiring Data Analyst** — Focused on **Economics**, **Macroeconomics**, **Business**, and **Social Science**  
-📈 **Former Economic & Social Analyst** | Urban Agency & Consulting
+[View Resume](EricMabicka_Resume.pdf) • [LinkedIn](https://www.linkedin.com/in/ericmabicka/) • [GitHub](https://github.com/EricMabicka)
 
 ---
 
-## 🛠️ Core Skills
+## About Me
 
-- **Languages & Tools**: SQL | Excel | Python | R | Power BI  
-- **Analytics**: Econometrics, Forecasting, Panel Data, Descriptive & Inferential Statistics  
-- **Data Storytelling**: Turning numbers into actionable insights for real-world impact  
+I’m an applied economics graduate with experience in economic and social policy analysis. My background combines quantitative research, data analytics, and visualization.
 
----
-
-## 💡 My Journey
-
-With a Master’s degree in *Applied Economics*, I’ve worked in **urban policy and consulting** to help public organizations understand complex **economic, demographic, and social trends**.
-
-My experience includes:  
-- Conducting research  
-- Delivering policy recommendations  
-- Executing hands-on data analytics and visualization
+I believe in the power of data to guide meaningful change in both the public and private sectors.
 
 ---
 
-## 🌱 Lifelong Learner & Knowledge Sharer
+## Projects
 
-I’m passionate about teaching, mentoring, and continuous learning.  
-Whether it's mastering a new tool, diving into data science trends, or helping others grow, I believe **curiosity and collaboration fuel progress**.
+Here are a few selected projects I've worked on:
 
----
+- **[Project Title 1](#)**  
+  Short description of the problem, method, and insight.
 
-## 📫 Let’s Connect
+- **[Project Title 2](#)**  
+  Short description of the project and your contribution.
 
-- [LinkedIn](https://www.linkedin.com/in/ericmabicka/)  
-- [Portfolio Website](https://ericmabicka.github.io)  
-- <a href="EricMabicka_Resume.pdf" target="_blank" style="background:#007acc;color:white;padding:8px 15px;border-radius:5px;text-decoration:none;">📄 Download My Resume</a>
+- **[Project Title 3](#)**  
+  Something related to macroeconomics, forecasting, or social data.
 
----
-
-## 🗂️ Selected Projects
-
-<!-- Add your projects here -->
+> Want to see more? Visit my [GitHub](https://github.com/EricMabicka).
 
 ---
 
-> “**Data is not just numbers — it's stories waiting to be told. And I'm here to help tell them.**”
+## Contact
+
+Available for analytics roles, collaborations, or mentoring.
+
+- [LinkedIn](https://www.linkedin.com/in/ericmabicka/)
+- [GitHub](https://github.com/EricMabicka)
+- [Download Resume](EricMabicka_Resume.pdf)
 
