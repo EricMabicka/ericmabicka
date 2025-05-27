@@ -31,4 +31,8 @@ I’m passionate about turning complex information into clear, actionable insigh
 - [💼 LinkedIn](https://www.linkedin.com/in/ericmabicka/)
 - [📄 Resume](EricMabicka_Resume.pdf)
 
-> “Data is not just numbers — it's stories waiting to be told. And I'm here to help tell them.”_
+---
+
+> “Data is not just numbers — it's stories waiting to be told. And I'm here to help tell them.”
+
+
