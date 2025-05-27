@@ -1,3 +1,7 @@
+<p align="left">
+  <img src="MBK Analytics.png" alt="MBK Analytics Logo" width="180"/>
+</p>
+
 <p align="center">
   <img src="Profile.jpg" alt="Eric Mabicka" width="160" style="border-radius: 50%;" />
 </p>
