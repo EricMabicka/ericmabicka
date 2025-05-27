@@ -37,6 +37,6 @@ I’m passionate about turning complex information into clear, actionable insigh
 
 ---
 
-> “Data is not just numbers — it's stories waiting to be told. And I'm here to help tell them.”
+> “Data helps us understand where we are, envision what’s possible, and build a path toward something better.”
 
 
