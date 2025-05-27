@@ -3,6 +3,9 @@ layout: default
 title: Eric Mabicka
 ---
 
+<!-- MBK Analytics logo top-left -->
+<img src="MBK Analytics.png" alt="MBK Analytics Logo" style="float: left; width: 120px; height: auto; margin-right: 20px; margin-top: 10px;" />
+
 <p align="center">
   <img src="Profile.jpg" alt="Eric Mabicka" style="width:160px; border-radius:50%;" />
 </p>
@@ -55,5 +58,3 @@ Short description of the project.
 - [LinkedIn](https://www.linkedin.com/in/ericmabicka/)
 - [GitHub](https://github.com/EricMabicka)
 - [Resume](EricMabicka_Resume.pdf)
-
-
